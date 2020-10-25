@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Logica","l":"Celda"},{"p":"Logica","l":"Cronometro"},{"p":"Logica","l":"Entidad_celda"},{"p":"Logica","l":"Entidad_grafica"},{"p":"Logica","l":"Entidad_reloj"},{"p":"Gui","l":"GUI_Sudoku"},{"p":"Logica","l":"InvalidFileException"},{"p":"Logica","l":"Juego"}]
